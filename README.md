@@ -39,6 +39,3 @@ PIYUSH PANDEY, [07-07-2025 01:32]
 
 - Replace https://your-live-link.com with your actual GitHub Pages or hosted site link.
 - Replace preview image/GIF link with actual app preview.
-- You can use [Shields.io](https://shields.io) to create more custom badges.
-
-Would you like me to generate a custom preview image or help host it on GitHub Pages?
