@@ -33,15 +33,7 @@ PIYUSH PANDEY, [07-07-2025 01:32]
 - CSS – Styling and layout
 - JavaScript – Logic and interactivity
 
----
 
-## 📂 Folder Structure
-
-PIYUSH PANDEY, [07-07-2025 01:32]
-git clone https://github.com/yourusername/stopwatch-app.git
-
-PIYUSH PANDEY, [07-07-2025 01:32]
----
 
 ### 🔧 Customization Notes
 
