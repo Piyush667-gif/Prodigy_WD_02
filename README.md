@@ -1,45 +1,32 @@
+🔗 [Click Here to Try the Stopwatch](https://your-live-link.com)
 
-# ⏱️ Stopwatch Clock Web Application
+---
 
-A modern and responsive Stopwatch Clock built using HTML, CSS, and JavaScript, with smooth animations and user-friendly interface.
+## 📸 Preview
 
-## 🚀 Features
+![App Preview](https://your-image-link.com/preview.gif)
 
-- ⏯ Start / Pause Stopwatch
-- 🔁 Reset Stopwatch
-- ⏱️ Real-time accurate time tracking
-- 💫 Animated ticking UI
-- 🌓 Responsive Design (Mobile + Desktop)
+---
 
-## 🔧 Tech Stack
+## 💡 Features
 
-- HTML – Structure of the stopwatch
-- CSS – Styling and animation
-- JavaScript – Time logic, DOM manipulation
+✅ Start / Pause the Stopwatch  
+✅ Reset Functionality  
+✅ Live Time Display in HH:MM:SS:MS Format  
+✅ Fully Responsive for Mobile & Desktop  
+✅ Sleek and Simple UI  
 
-## 🎥 Demo Animation
+---
 
-![Stopwatch Animation](https://giphy.com/gifs/timer-heuer-chronomtre-NAy2FD8xWrH4jUIBrq)
+## 🛠 Tech Stack
 
-> ⚠️ Replace the above link with your actual GIF URL hosted on GitHub or any CDN.
+- HTML – Structure
+- CSS – Styling and layout
+- JavaScript – Logic and interactivity
 
 
-## 🧠 Working Logic
 
-1. Start/Pause: Uses setInterval() to update milliseconds every 10ms.
-2. Reset: Clears interval and resets time variables.
-3. Animation: CSS transitions for buttons and clock effects.
+### 🔧 Customization Notes
 
-## 📲 How to Run Locally
-
-`bash
-git clone https://github.com/your-username/stopwatch-app.git
-cd stopwatch-app
-open index.html
-
-🔗 Connect with Me
-
-Piyush Pandey
-📧 pandeypiyush538@gmail.com
-🔗 LinkedIn
-🔗 GitHub
+- Replace https://your-live-link.com with your actual GitHub Pages or hosted site link.
+- Replace preview image/GIF link with actual app preview.
