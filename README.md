@@ -1,41 +1,45 @@
-PIYUSH PANDEY, [07-07-2025 01:32]
-# ⏱️ Stopwatch Web Application
 
-![Stopwatch](https://img.shields.io/badge/Stopwatch-App-blue?style=for-the-badge&logo=javascript)
-![Responsive](https://img.shields.io/badge/Responsive%20Design-%F0%9F%93%8C-green?style=for-the-badge)
-![Built With](https://img.shields.io/badge/Built%20with-HTML%20%7C%20CSS%20%7C%20JS-orange?style=for-the-badge&logo=code)
+# ⏱️ Stopwatch Clock Web Application
 
-## 🚀 Live Demo
+A modern and responsive Stopwatch Clock built using HTML, CSS, and JavaScript, with smooth animations and user-friendly interface.
 
-🔗 [Click Here to Try the Stopwatch](https://your-live-link.com)
+## 🚀 Features
 
----
+- ⏯ Start / Pause Stopwatch
+- 🔁 Reset Stopwatch
+- ⏱️ Real-time accurate time tracking
+- 💫 Animated ticking UI
+- 🌓 Responsive Design (Mobile + Desktop)
 
-## 📸 Preview
+## 🔧 Tech Stack
 
-![App Preview](https://your-image-link.com/preview.gif)
+- HTML – Structure of the stopwatch
+- CSS – Styling and animation
+- JavaScript – Time logic, DOM manipulation
 
----
+## 🎥 Demo Animation
 
-## 💡 Features
+![Stopwatch Animation](https://user-images.githubusercontent.com/your-username/your-repo/stopwatch-preview.gif)
 
-✅ Start / Pause the Stopwatch  
-✅ Reset Functionality  
-✅ Live Time Display in HH:MM:SS:MS Format  
-✅ Fully Responsive for Mobile & Desktop  
-✅ Sleek and Simple UI  
-
----
-
-## 🛠️ Tech Stack
-
-- HTML – Structure
-- CSS – Styling and layout
-- JavaScript – Logic and interactivity
+> ⚠️ Replace the above link with your actual GIF URL hosted on GitHub or any CDN.
 
 
+## 🧠 Working Logic
 
-### 🔧 Customization Notes
+1. Start/Pause: Uses setInterval() to update milliseconds every 10ms.
+2. Reset: Clears interval and resets time variables.
+3. Animation: CSS transitions for buttons and clock effects.
 
-- Replace https://your-live-link.com with your actual GitHub Pages or hosted site link.
-- Replace preview image/GIF link with actual app preview.
+## 📲 How to Run Locally
+
+`bash
+git clone https://github.com/your-username/stopwatch-app.git
+cd stopwatch-app
+open index.html
+
+🔗 Connect with Me
+
+Piyush Pandey
+📧 pandeypiyush538@gmail.com
+🔗 LinkedIn
+🔗 GitHub
