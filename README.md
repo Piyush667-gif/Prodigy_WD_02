@@ -19,7 +19,7 @@ A modern and responsive Stopwatch Clock built using HTML, CSS, and JavaScript, w
 
 ## 🎥 Demo Animation
 
-![Stopwatch Animation](https://user-images.githubusercontent.com/your-username/your-repo/stopwatch-preview.gif)
+![Stopwatch Animation](https://giphy.com/gifs/timer-heuer-chronomtre-NAy2FD8xWrH4jUIBrq)
 
 > ⚠️ Replace the above link with your actual GIF URL hosted on GitHub or any CDN.
 
