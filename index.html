@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animated Stopwatch</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="animated-background">
+        <div class="floating-shapes">
+            <div class="shape shape-1"></div>
+            <div class="shape shape-2"></div>
+            <div class="shape shape-3"></div>
+            <div class="shape shape-4"></div>
+            <div class="shape shape-5"></div>
+        </div>
+    </div>
+
+    <div class="container">
+        <header class="header">
+            <div class="logo">
+                <div class="logo-circle">
+                    <div class="logo-inner">⏱️</div>
+                </div>
+                <h1 class="logo-text">StopWatch Pro</h1>
+            </div>
+        </header>
+
+        <main class="stopwatch-container">
+            <div class="display-section">
+                <div class="time-display" id="timeDisplay">00:00:00</div>
+                <div class="milliseconds" id="milliseconds">000</div>
+            </div>
+
+            <div class="controls">
+                <button class="btn btn-start" id="startBtn">
+                    <span class="btn-text">START</span>
+                    <div class="btn-ripple"></div>
+                </button>
+                <button class="btn btn-pause" id="pauseBtn" disabled>
+                    <span class="btn-text">PAUSE</span>
+                    <div class="btn-ripple"></div>
+                </button>
+                <button class="btn btn-reset" id="resetBtn">
+                    <span class="btn-text">RESET</span>
+                    <div class="btn-ripple"></div>
+                </button>
+                <button class="btn btn-lap" id="lapBtn" disabled>
+                    <span class="btn-text">LAP</span>
+                    <div class="btn-ripple"></div>
+                </button>
+            </div>
+
+            <div class="lap-section">
+                <h3 class="lap-title">Lap Times</h3>
+                <div class="lap-list" id="lapList">
+                    <div class="no-laps">No lap times recorded</div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
