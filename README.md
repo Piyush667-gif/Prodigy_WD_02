@@ -2,11 +2,8 @@
 
 ---
 
-## 📸 Preview
 
-![App Preview](https://your-image-link.com/preview.gif)
 
----
 
 ## 💡 Features
 
@@ -25,8 +22,3 @@
 - JavaScript – Logic and interactivity
 
 
-
-### 🔧 Customization Notes
-
-- Replace https://your-live-link.com with your actual GitHub Pages or hosted site link.
-- Replace preview image/GIF link with actual app preview.
